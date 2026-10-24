@@ -23,6 +23,10 @@ It processes a dataset of mock request logs and presents useful metrics, charts,
 - **Failure investigation:** Examine failed requests and their error categories.
 - **Data exports:** Download filtered logs as CSV and incident reports as text.
 
+## Live Demo
+
+Try the dashboard here: [Mini AI Observability Dashboard](https://ai-observability-dashboard-pshadrin.streamlit.app)
+
 ## Technology Stack
 
 - Python
@@ -83,11 +87,7 @@ Keep `sample_logs.csv` in the same folder as `app.py`.
 
 ## Screenshot
 
-Add a screenshot of the dashboard here after creating the `screenshots/` folder.
-
-Suggested file: `screenshots/dashboard-overview.png`
-
-A screenshot will help visitors understand the interface without installing or running the project.
+![Mini AI Observability Dashboard](screenshots/dashboard-overview.png)
 
 ## Current Limitations
 
